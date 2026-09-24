@@ -38,4 +38,18 @@ desktop-pet/assets/
 
 ## 许可
 
-动画素材为项目作者自有作品，与主仓库同为 **MIT**。详见 `NOTICE.md`。
+⚠️ **本仓库内容不适用 MIT。**
+
+动画素材描绘的是**他人原创的角色形象** —— 原创 OC「溟月」@上善无形，
+女仆版二次设计 @ZipZipPipe（B 站）。据两位作者公开声明，该形象以
+**CC BY-NC-SA 4.0** 开放二次创作：
+
+- 必须**署名**原作者；
+- **禁止商业使用**；
+- 衍生作品须**相同方式共享**。
+
+完整条款与建议署名格式见 [`LICENSE`](LICENSE) 与 [`NOTICE.md`](NOTICE.md)。
+
+想用不受该协议约束的素材：用
+[`deskpet-tools/`](https://github.com/oyxdsg/Multimodal-AI-Companion/tree/main/deskpet-tools)
+从自己的素材制作角色包。

@@ -1,0 +1,3 @@
+# 大包走 Release，不进 git
+*.zip
+__pycache__/

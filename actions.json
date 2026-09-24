@@ -1,0 +1,146 @@
+{
+  "package": "deskpet-animation-assets",
+  "version": "1.0.0",
+  "target": "desktop-pet/assets/",
+  "total_actions": 17,
+  "total_frames": 1663,
+  "total_bytes": 260036393,
+  "actions": [
+    {
+      "key": "_static",
+      "frames": 1,
+      "bytes": 53833,
+      "traj": false,
+      "first": "idle.png",
+      "last": "idle.png"
+    },
+    {
+      "key": "侧面",
+      "frames": 107,
+      "bytes": 14467057,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "哭泣",
+      "frames": 107,
+      "bytes": 17554119,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "坐下",
+      "frames": 97,
+      "bytes": 14651185,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0096.png"
+    },
+    {
+      "key": "坐地上生气",
+      "frames": 107,
+      "bytes": 14407835,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "害羞",
+      "frames": 107,
+      "bytes": 17409817,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "开心",
+      "frames": 107,
+      "bytes": 17552941,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "思考",
+      "frames": 97,
+      "bytes": 16965918,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0096.png"
+    },
+    {
+      "key": "惊讶",
+      "frames": 107,
+      "bytes": 17750996,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "打滚",
+      "frames": 107,
+      "bytes": 14352334,
+      "traj": true,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "正面",
+      "frames": 107,
+      "bytes": 17445425,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "站着睡着",
+      "frames": 107,
+      "bytes": 17036864,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "背面",
+      "frames": 107,
+      "bytes": 13108078,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "起身",
+      "frames": 97,
+      "bytes": 18304309,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0096.png"
+    },
+    {
+      "key": "跳舞",
+      "frames": 192,
+      "bytes": 30750306,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0191.png"
+    },
+    {
+      "key": "跳跃",
+      "frames": 107,
+      "bytes": 17737444,
+      "traj": true,
+      "first": "frame_0000.png",
+      "last": "frame_0106.png"
+    },
+    {
+      "key": "转向",
+      "frames": 2,
+      "bytes": 487932,
+      "traj": false,
+      "first": "frame_0000.png",
+      "last": "frame_0001.png"
+    }
+  ]
+}
